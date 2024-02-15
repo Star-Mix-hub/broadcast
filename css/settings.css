@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Montserrat", sans-serif;
+  background: #000000;
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  max-width: 1550px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+.btn {
+  background: #5600E1;
+  color: #ffffff;
+}
